@@ -13,7 +13,7 @@ function Home() {
           <div className="flex flex-col gap-4">
             <h1 className="text-5xl lg:text-7xl">
               Leulmi <span className="text-[#fb8500]">BAHA</span>{" "}
-              <span className="text-sky-500">EDDINE</span>
+              <span className="text-sky-500">ABDELKOUDOUS</span>
             </h1>
             <p className="text-xl lg:text-3xl text-white text-opacity-50">Presentation Specialiste</p>
             <p className="text-xl lg:text-3xl text-white text-opacity-50">Working with :</p>

@@ -26,7 +26,7 @@ function Contact() {
           >
             <div className="flex items-center gap-4 hover:scale-110 duration-200">
               <IoMail className="text-5xl text-[#fb8500]" />
-              <p className="text-xl font-medium">mail@gmail.com</p>
+              <p className="text-xl font-medium">abdoubahaa00@yahoo.com</p>
             </div>
           </a>
           <div className="flex items-center gap-4 cursor-pointer hover:scale-110 duration-200">

@@ -8,7 +8,7 @@ function Navbar() {
       <div className="flex items-center justify-between py-4 px-4 lg:px-16 rounded-full border-2 border-[#fb8500] my-4 mx-4 lg:mx-10 fixed right-0 left-0 z-50">
         <div>
           <h1 className="text-2xl font-semibold text-[#fb8500]">
-            BAHA <span className="text-sky-500">EDDINE</span>
+            BAHA <span className="text-sky-500">ABDELKOUDOUS</span>
           </h1>
         </div>
         <div>
